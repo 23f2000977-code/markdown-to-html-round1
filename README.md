@@ -1,2 +1,8 @@
-# markdown-to-html-round1
-Generated application for markdown-to-html - Round 1
+# Markdown Converter
+This application converts markdown content to HTML using the `marked` library and highlights code blocks with `highlight.js`.
+
+## Setup
+No setup required. Open the index.html file in a browser.
+
+## Usage
+The markdown content is converted and displayed automatically on page load.
